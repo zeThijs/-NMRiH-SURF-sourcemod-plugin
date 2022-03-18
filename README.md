@@ -1,5 +1,5 @@
 # -NMRiH-SURF-sourcemod-plugin
-simple sourcemod plugin enabling surf mode
+
 
 Automatically enables surf mode on maps with suffic surf_* . 
 
