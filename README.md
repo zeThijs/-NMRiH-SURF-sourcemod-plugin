@@ -1,7 +1,7 @@
 # -NMRiH-SURF-sourcemod-plugin
 
 
-Automatically enables surf mode on maps with suffic surf_* . 
+**Automatically enables surf mode on maps with suffic surf_* . **
 
 The following ConVars may be used:
 - sm_surf_message "Server entry message"
