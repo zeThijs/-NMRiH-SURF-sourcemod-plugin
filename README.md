@@ -3,14 +3,16 @@ simple sourcemod plugin enabling surf mode
 
 Automatically enables surf mode on maps with suffic surf_* . 
 
-The following ConVars may be used:\n
+The following ConVars may be used:
   sm_surf_message "Server entry message"
   
-To manually enable surf mode:\n
-  in chat:    !surf       \n
+To manually enable surf mode:
+  in chat:    !surf       
   in console: sm_surf\n
-To manually disable surf mode:\n
-  in chat:    !surfoff       \n
+  
+To manually disable surf mode:
+
+  in chat:    !surfoff       
   in console: sm_surfoff\n
   
   
